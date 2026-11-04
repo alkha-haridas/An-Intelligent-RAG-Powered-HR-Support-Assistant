@@ -21,7 +21,7 @@ Instead of manually searching through lengthy HR documents, employees can ask qu
 HR Handbook PDF --> Document Processing-->Text Chunking-->Embeddings-->FAISS Vector Database-->Retriever + Gemini LLM-->HR Assistant Answer
 
 🛠️ Technologies Used
-- Technology       	                
+
 - Python	                          
 - LangChain       	                
 - Gemini           	                
