@@ -18,7 +18,7 @@ Instead of manually searching through lengthy HR documents, employees can ask qu
 
 🏗️ Architecture
 
-HR Handbook PDF --> Document Processing-->Text Chunking-->Embeddings-->FAISS Vector Database-->Retriever + Gemini LLM-->HR Assistant Answer
+company policy PDF --> Document Processing-->Text Chunking-->Embeddings-->FAISS Vector Database-->Retriever + Gemini LLM-->HR Assistant Answer
 
 🛠️ Technologies Used
 
