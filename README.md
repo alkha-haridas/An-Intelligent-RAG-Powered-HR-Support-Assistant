@@ -2,9 +2,10 @@
 A smart conversational assistant that helps employees find accurate answers to Company policies, company guidelines, other queries using Retrieval-Augmented Generation
 
 📌 Project Overview
-PeopleDesk AI is an AI-powered HR support assistant that uses Retrieval-Augmented Generation (RAG) to answer employee questions based on HR policies and employee handbook documents.
 
-Instead of manually searching through lengthy HR documents, employees can ask questions in natural language and receive relevant answers.
+- PeopleDesk AI is an AI-powered HR support assistant that uses Retrieval-Augmented Generation (RAG) to answer employee questions based on HR policies and employee handbook documents.
+
+- Instead of manually searching through lengthy HR documents, employees can ask questions in natural language and receive relevant answers.
 
 🎯 Key Features
 - Upload and process HR handbook PDFs.
