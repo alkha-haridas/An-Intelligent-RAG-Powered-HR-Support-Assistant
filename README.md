@@ -21,13 +21,13 @@ Instead of manually searching through lengthy HR documents, employees can ask qu
 HR Handbook PDF --> Document Processing-->Text Chunking-->Embeddings-->FAISS Vector Database-->Retriever + Gemini LLM-->HR Assistant Answer
 
 🛠️ Technologies Used
-Technology       	                Purpose
-Python	                          Programming
-LangChain       	                RAG framework
-Gemini           	                LLM
-FAISS           	                Vector database
-Gradio	                          Chat interface
-Sentence Transformers	            Similarity evaluation
+- Technology       	                
+- Python	                          
+- LangChain       	                
+- Gemini           	                
+- FAISS           	                
+- Gradio	                         
+- Sentence Transformers	            
 
 
   
